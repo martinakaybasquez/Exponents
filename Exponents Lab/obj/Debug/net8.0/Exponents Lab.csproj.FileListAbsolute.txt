@@ -1,0 +1,14 @@
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Exponents Lab/Exponents Lab/bin/Debug/net8.0/Exponents Lab
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Exponents Lab/Exponents Lab/bin/Debug/net8.0/Exponents Lab.deps.json
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Exponents Lab/Exponents Lab/bin/Debug/net8.0/Exponents Lab.runtimeconfig.json
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Exponents Lab/Exponents Lab/bin/Debug/net8.0/Exponents Lab.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Exponents Lab/Exponents Lab/bin/Debug/net8.0/Exponents Lab.pdb
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Exponents Lab/Exponents Lab/obj/Debug/net8.0/Exponents Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Exponents Lab/Exponents Lab/obj/Debug/net8.0/Exponents Lab.AssemblyInfoInputs.cache
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Exponents Lab/Exponents Lab/obj/Debug/net8.0/Exponents Lab.AssemblyInfo.cs
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Exponents Lab/Exponents Lab/obj/Debug/net8.0/Exponents Lab.csproj.CoreCompileInputs.cache
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Exponents Lab/Exponents Lab/obj/Debug/net8.0/Exponents Lab.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Exponents Lab/Exponents Lab/obj/Debug/net8.0/refint/Exponents Lab.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Exponents Lab/Exponents Lab/obj/Debug/net8.0/Exponents Lab.pdb
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Exponents Lab/Exponents Lab/obj/Debug/net8.0/Exponents Lab.genruntimeconfig.cache
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Exponents Lab/Exponents Lab/obj/Debug/net8.0/ref/Exponents Lab.dll
